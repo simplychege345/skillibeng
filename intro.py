@@ -1,0 +1,6 @@
+print("welcome to python programming")
+print('hello word')
+print(5+12)
+print("5+17")
+print("skillibeng badman")
+print("kartel world boss")
